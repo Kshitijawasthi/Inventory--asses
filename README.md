@@ -1,8 +1,9 @@
 # Pipeline Builder
 
-A React and FastAPI application for building and analyzing visual workflow pipelines.
+A React and FastAPI application for creating and analyzing visual workflow pipelines.
 
-This project was completed as part of the VectorShift Frontend Technical Assessment. It demonstrates reusable component architecture, dynamic node generation, backend integration, and graph validation.
+This project was developed as part of the **VectorShift Frontend Technical Assessment**. It demonstrates reusable component design, dynamic node generation, backend integration, and graph validation.
+
 
 ---
 
